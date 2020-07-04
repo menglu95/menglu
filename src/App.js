@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import MainContent from "./components/MainContent";
 import RightSide from "./components/RightSide";
+import Option from "./components/Option";
 
 class App extends Component {
   constructor(props) {
@@ -47,6 +48,7 @@ class App extends Component {
                   <div className="row">
                     <RightSide />
                     <MainContent />
+                    <Option />
                   </div>
                 </div>
               </div>
