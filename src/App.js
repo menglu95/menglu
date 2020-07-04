@@ -48,7 +48,6 @@ class App extends Component {
                   <div className="row">
                     <RightSide />
                     <MainContent />
-                    <Option />
                   </div>
                 </div>
               </div>
