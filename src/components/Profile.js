@@ -52,7 +52,7 @@ class Profile extends Component {
 
             <p style={{ marginBottom: "20px" }}>
               <i className="fa fa-quote-left"></i>I have experienced web
-              development for 5 years. I worked my way through university so
+              development for 5+ years. I worked my way through university so
               that I was hired for several companies and I completed many tasks
               and several web projects. I worked remotely and collaborated with
               several developers in those companies. I learned popular web
